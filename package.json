@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mickovi/rest-server.git"
+    "url": "git+https://github.com/mickovi/rest-server-nodejs.git"
   },
   "keywords": [
     "rest",
